@@ -24,5 +24,6 @@ Team 12 Members:
          [Generating a new SSH key and adding it to the ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 3. [Create a Python virtual environment for the project](https://docs.python.org/3/library/venv.html)
    1. [Activate your virtual environment](https://docs.python.org/3/library/venv.html#how-venvs-work)
-4. Install packages in **requirements.txt**: `pip install -r requirements.txt`
-5. You're all set have fun developing! 😎
+4. Upgrade pip: `python.exe -m pip install --upgrade pip`
+5. Install packages in **requirements.txt**: `pip install -r requirements.txt`
+6. You're all set have fun developing! 😎
