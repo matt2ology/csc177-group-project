@@ -27,3 +27,11 @@ Team 12 Members:
 4. Upgrade pip: `python.exe -m pip install --upgrade pip`
 5. Install packages in **requirements.txt**: `pip install -r requirements.txt`
 6. You're all set have fun developing! 😎
+
+## Course Projects
+
+1. Data Preprocessing Project - **Due** Oct 6 at 11:59pm
+2. Linear Regression Project & Classification Tree Homework - **Due** Oct 27 at 11:59pm
+3. Classification Models project - **Due** Nov 17 at 11:59pm
+4. Cluster Analysis, ANN and Text Mining Project - **Due** Dec 1 at 11:59pm
+5. Presentations & slides - **Due** Dec 8 at 11:59pm
