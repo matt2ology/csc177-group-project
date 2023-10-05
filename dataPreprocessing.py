@@ -1,5 +1,9 @@
 from ucimlrepo import fetch_ucirepo 
   
+import ssl
+
+ssl._create_default_https_context = ssl._create_unverified_context
+
 # fetch dataset 
 heart_disease = fetch_ucirepo(id=45) 
   
