@@ -30,8 +30,8 @@ Team 12 Members:
 
 ## Course Projects
 
-1. Data Preprocessing Project - **Due** Oct 6 at 11:59pm
-2. Linear Regression Project & Classification Tree Homework - **Due** Oct 27 at 11:59pm
-3. Classification Models project - **Due** Nov 17 at 11:59pm
-4. Cluster Analysis, ANN and Text Mining Project - **Due** Dec 1 at 11:59pm
+1. [Data Preprocessing Project](assignment01_data_preprocessing_project) - **Due** Oct 6 at 11:59pm
+2. [Linear Regression Project & Classification Tree Homework](assignment02_linear_regression_project_classification_tree) - **Due** Oct 27 at 11:59pm
+3. [Classification Models project](assignment03_classification_models_project) - **Due** Nov 17 at 11:59pm
+4. [Cluster Analysis, ANN and Text Mining Project](assignment04_cluster_analysis_ann_and_text_mining_project) - **Due** Dec 1 at 11:59pm
 5. Presentations & slides - **Due** Dec 8 at 11:59pm
