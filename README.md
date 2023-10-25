@@ -4,14 +4,14 @@ Repo for CSC 177 data-analytics-and-mining group project
 
 Team 12 Members:
 
-- Alicia Luna
-- Derek Dilger
-- Gary Young
-- Ian Schultz
-- Jesus Cervantes
-- Matthew Mendoza
-- Thomas Jaramillo-Ochoa
-- Yunjeong Lee
+- [Alicia Luna](https://github.com/aluna4)
+- [Derek Dilger](https://github.com/derekdilger)
+- [Gary Young](https://github.com/garyyoungcsc)
+- [Ian Schultz](https://github.com/Ian-Sanity)
+- [Jesus Cervantes](https://github.com/Jescer3)
+- [Matthew Mendoza](https://github.com/matt2ology)
+- [Thomas Jaramillo-Ochoa](https://github.com/tjaramillo452329)
+- [Yunjeong Lee](https://github.com/yunjeongiya)
 
 ## Development: Getting Started Initial Setup
 
