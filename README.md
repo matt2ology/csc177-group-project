@@ -26,7 +26,7 @@ Team 12 Members:
    1. [Activate your virtual environment](https://docs.python.org/3/library/venv.html#how-venvs-work)
 4. Upgrade pip: `python.exe -m pip install --upgrade pip`
 5. Install packages in **requirements.txt**: `pip install -r requirements.txt`
-6. You're all set have fun developing! 😎
+6. You're all set. Have fun developing! 😎
 
 ## Course Projects
 
