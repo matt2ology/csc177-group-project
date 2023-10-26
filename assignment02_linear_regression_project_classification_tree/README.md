@@ -16,11 +16,20 @@ See to first the items below
 - [Linear Regression Project and Classification Tree Homework](linear_regression_project_and_classification_tree_homework.md)
   - [PDF Version: Linear Regression Project and Classification Tree Homework](linear_regression_project_and_classification_tree_homework.pdf)
 
+## Requirements: Python Package Dependencies
+
+- autopep8
+- pandas
+- scikit-learn
+
 ## Part A - Linear and multi-linear regression
 
 If a previous dataset is not suitable for regression, you may use a different
 dataset of your own choice or add a new X or Y column of numerical data type as
 needed to your previous dataset creatively!
+
+- [AWS Big Data Blog: A public data lake for analysis of COVID-19 data](https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/)
+  - [COVID-19 S3 data browser](https://covid19-lake.s3.us-east-2.amazonaws.com/databrowser.html)
 
 ## B. Regression and Classification
 
