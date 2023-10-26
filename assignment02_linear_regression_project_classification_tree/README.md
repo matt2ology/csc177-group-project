@@ -16,6 +16,12 @@ See to first the items below
 - [Linear Regression Project and Classification Tree Homework](linear_regression_project_and_classification_tree_homework.md)
   - [PDF Version: Linear Regression Project and Classification Tree Homework](linear_regression_project_and_classification_tree_homework.pdf)
 
+## Requirements: Python Package Dependencies
+
+- autopep8
+- pandas
+- scikit-learn
+
 ## Part A - Linear and multi-linear regression
 
 If a previous dataset is not suitable for regression, you may use a different
