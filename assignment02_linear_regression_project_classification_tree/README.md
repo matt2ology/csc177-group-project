@@ -22,6 +22,9 @@ If a previous dataset is not suitable for regression, you may use a different
 dataset of your own choice or add a new X or Y column of numerical data type as
 needed to your previous dataset creatively!
 
+- [AWS Big Data Blog: A public data lake for analysis of COVID-19 data](https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/)
+  - [COVID-19 S3 data browser](https://covid19-lake.s3.us-east-2.amazonaws.com/databrowser.html)
+
 ## B. Regression and Classification
 
 Part B (1) - Linear and multi-linear regression on given dataset
