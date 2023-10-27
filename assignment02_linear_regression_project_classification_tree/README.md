@@ -19,6 +19,7 @@ See to first the items below
 ## Requirements: Python Package Dependencies
 
 - autopep8
+- matplotlib
 - pandas
 - scikit-learn
 
