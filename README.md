@@ -4,14 +4,14 @@ Repo for CSC 177 data-analytics-and-mining group project
 
 Team 12 Members:
 
-- Alicia Luna
-- Derek Dilger
-- Gary Young
-- Ian Schultz
-- Jesus Cervantes
-- Matthew Mendoza
-- Thomas Jaramillo-Ochoa
-- Yunjeong Lee
+- [Alicia Luna](https://github.com/aluna4)
+- [Derek Dilger](https://github.com/derekdilger)
+- [Gary Young](https://github.com/garyyoungcsc)
+- [Ian Schultz](https://github.com/Ian-Sanity)
+- [Jesus Cervantes](https://github.com/Jescer3)
+- [Matthew Mendoza](https://github.com/matt2ology)
+- [Thomas Jaramillo-Ochoa](https://github.com/tjaramillo452329)
+- [Yunjeong Lee](https://github.com/yunjeongiya)
 
 ## Development: Getting Started Initial Setup
 
@@ -26,12 +26,12 @@ Team 12 Members:
    1. [Activate your virtual environment](https://docs.python.org/3/library/venv.html#how-venvs-work)
 4. Upgrade pip: `python.exe -m pip install --upgrade pip`
 5. Install packages in **requirements.txt**: `pip install -r requirements.txt`
-6. You're all set have fun developing! 😎
+6. You're all set. Have fun developing! 😎
 
 ## Course Projects
 
-1. Data Preprocessing Project - **Due** Oct 6 at 11:59pm
-2. Linear Regression Project & Classification Tree Homework - **Due** Oct 27 at 11:59pm
-3. Classification Models project - **Due** Nov 17 at 11:59pm
-4. Cluster Analysis, ANN and Text Mining Project - **Due** Dec 1 at 11:59pm
+1. [Data Preprocessing Project](assignment01_data_preprocessing_project) - **Due** Oct 6 at 11:59pm
+2. [Linear Regression Project & Classification Tree Homework](assignment02_linear_regression_project_classification_tree) - **Due** Oct 27 at 11:59pm
+3. [Classification Models project](assignment03_classification_models_project) - **Due** Nov 17 at 11:59pm
+4. [Cluster Analysis, ANN and Text Mining Project](assignment04_cluster_analysis_ann_and_text_mining_project) - **Due** Dec 1 at 11:59pm
 5. Presentations & slides - **Due** Dec 8 at 11:59pm
