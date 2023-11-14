@@ -1,17 +1,12 @@
-# Assignment 3: Understanding Real-Life Data Concerns
+# Assignment 3: Classification Models Project
 
-Team 12 Members:
+[classification_models_project](classification_models_project.md)
 
-- [Alicia Luna](https://github.com/aluna4)
-- [Derek Dilger](https://github.com/derekdilger)
-- [Gary Young](https://github.com/garyyoungcsc)
-- [Ian Schultz](https://github.com/Ian-Sanity)
-- [Jesus Cervantes](https://github.com/Jescer3)
-- [Matthew Mendoza](https://github.com/matt2ology)
-- [Thomas Jaramillo-Ochoa](https://github.com/tjaramillo452329)
-- [Yunjeong Lee](https://github.com/yunjeongiya)
+## Files --> Help --> Labs --> data --> Project3_Classification_Models
 
-Assignment prompt:
-[understanding_real_life_data_concerns.md](understanding_real_life_data_concerns.md)
+The location for the dataset, data set description file
+and the project instructions are in:
 
-My submission: [assignment03_response_matthew_mendoza.md](assignment03_response_matthew_mendoza.md)
+- [assignment_3.pdf](assignment_3.pdf)
+- [assignment_3_dataset_description.pdf](assignment_3_dataset_description.pdf)
+- [data/churn_modelling.csv](data/churn_modelling.csv)
