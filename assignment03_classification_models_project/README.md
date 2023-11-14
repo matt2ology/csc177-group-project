@@ -11,7 +11,7 @@ Team 12 Members:
 - [Jesus Cervantes](https://github.com/Jescer3)
 - [Matthew Mendoza](https://github.com/matt2ology)
 - [Thomas Jaramillo-Ochoa](https://github.com/tjaramillo452329)
-- [Yunjeong Lee](https://github.com/yunjeongiya)
+- [Yun-jeong Lee](https://github.com/yunjeongiya)
 
 ## Files --> Help --> Labs --> data --> Project3_Classification_Models
 
