@@ -21,3 +21,10 @@ and the project instructions are in:
 - [assignment_3.pdf](assignment_3.pdf)
 - [assignment_3_dataset_description.pdf](assignment_3_dataset_description.pdf)
 - [data/churn_modelling.csv](data/churn_modelling.csv)
+
+Running classification models we learned using help from Tutorial_6 on your dataset: 10%
+Feature selection and Data splitting on the provided dataset: 25%
+Running the classification models on the provided dataset: 25%
+Performing accuracy analysis and comparing the models on the provided dataset: 25%
+Any Visuals: 5%
+Report: 10%
